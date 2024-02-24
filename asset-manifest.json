@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bevbook-font-end/static/css/main.ad3d0069.css",
+    "main.js": "/bevbook-font-end/static/js/main.25d514a1.js",
+    "index.html": "/bevbook-font-end/index.html",
+    "main.ad3d0069.css.map": "/bevbook-font-end/static/css/main.ad3d0069.css.map",
+    "main.25d514a1.js.map": "/bevbook-font-end/static/js/main.25d514a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad3d0069.css",
+    "static/js/main.25d514a1.js"
+  ]
+}
